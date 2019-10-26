@@ -12,3 +12,5 @@ This project is incomplete.
 27/10/2019 
 
 This project has been closed; I will be creating a new portfolio from scratch. 
+
+https://trello.com/b/DgSyCAse/portfolio
